@@ -1,0 +1,13 @@
+# macomako's flashlight notes
+
+This is my personal flashlight knowledge base: part memoir, part reference and part project log.
+
+## What belongs here
+
+- My flashlight journey and changing preferences
+- Technical notes and observations
+- Modifications, tests and experiments
+- Long-term experience with particular lights
+- Useful pieces previously published on Reddit and BLF
+
+This site is currently under construction.
