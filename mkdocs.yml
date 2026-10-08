@@ -1,0 +1,18 @@
+site_name: "macomako's flashlight notes"
+site_description: "My flashlight notes, projects and journey"
+site_url: "https://macomako.github.io/"
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
