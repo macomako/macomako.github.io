@@ -9,8 +9,8 @@ This is my personal flashlight knowledge base: part memoir, part reference and p
 - Modifications, tests and experiments
 - Long-term experience with particular lights
 - Useful pieces previously published on Reddit and BLF
-    - My Reddit profile: [u/macomako](https://www.reddit.com/user/macomako/)
-    - My BLF profile: [u/macomako/topics](https://budgetlightforum.com/u/macomako/activity/topics)
+    - My Reddit profile: [u/macomako](https://www.reddit.com/user/macomako/submitted/)
+    - My BLF profile: [u/macomako](https://budgetlightforum.com/u/macomako/activity/topics)
 
 
 This site is currently under construction.
